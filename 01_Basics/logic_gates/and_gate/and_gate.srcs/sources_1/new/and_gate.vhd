@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date: 25.10.2025 23:00:31
+-- Create Date: 25.10.2025 23:08:31
 -- Design Name: 
 -- Module Name: and_gate - Behavioral
 -- Project Name: 
