@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: EmbeddedTECH Solutions -- Great Enginering 
+-- Engineer: Metehan GENCER
 -- 
 -- Create Date: 25.10.2025 23:08:31
 -- Design Name: 
@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
--- Description: 
+-- Description: This code is basic and gate for tutorial. 
 -- 
 -- Dependencies: 
 -- 
