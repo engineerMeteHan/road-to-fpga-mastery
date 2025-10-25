@@ -13,7 +13,7 @@ Planned Topics / Roadmap
 1. Basic Digital Logic -- gates, fliip-flops, counters, multiplexers
 2. HDL Fundamentals -- VHDL & Verilog syntax, testbenches
 3. Intermediate Design -- FSMs, serial intefaces
-4. Advanced Modules -- moemry controllers, DSP Blocks, timing constraints
+4. Advanced Modules -- memory controllers, DSP Blocks, timing constraints
 5. System-Level Design -- Soc integration, IP Cores, AXI interfaces
 6. Real Hardware Demos -- running design on FPGA boards
 
