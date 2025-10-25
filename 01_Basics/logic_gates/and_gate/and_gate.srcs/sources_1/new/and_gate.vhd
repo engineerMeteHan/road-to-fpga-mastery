@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
--- Description: 
+-- Description: This code is basic and gate for tutorial. 
 -- 
 -- Dependencies: 
 -- 
